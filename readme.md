@@ -6,7 +6,7 @@
   * [Data](#data)
   * [Frameworks used](#frameworks-used)
   * [Labels](#labels)
-  * [Evaluation Metric](#motivation)
+  * [Evaluation Metric](#evaluation-metric)
   * [Cross-Validation](#cross-validation)
   * [Data-Augmentations](#data-augmentations)
 
