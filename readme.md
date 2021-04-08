@@ -9,6 +9,7 @@
   * [Evaluation Metric](#evaluation-metric)
   * [Cross-Validation](#cross-validation)
   * [Data-Augmentations](#data-augmentations)
+  * [Result](#result)
 
 ## Overview
 This is a simple image classification Project trained on the top of Pytorch API. The trained model that takes Cassava Leaf image as an input and predict the class of image from {'Cassava Bacterial Blight (CBB)', 'Cassava Brown Streak Disease (CBSD)', 'Cassava Green Mottle (CGM)', 'Cassava Mosaic Disease (CMD)', 'Healthy'}
@@ -78,3 +79,7 @@ We are using CNN based model with the efficien-net-b4 architecture for the class
         1. CenterCrop
         2. Resize
         3. Normalize
+
+## Result
+
+* We get an AUC-ROC Score of 0.8726
