@@ -22,7 +22,7 @@ Existing methods of disease detection require farmers to solicit the help of gov
 ## Data
 The dataset consists of 21,367 labeled images collected during a regular survey in Uganda. Most images were crowdsourced from farmers taking photos of their gardens, and annotated by experts at the National Crops Resources Research Institute (NaCRRI) in collaboration with the AI lab at Makerere University, Kampala. This is in a format that most realistically represents what farmers would need to diagnose in real life.
 
-To download the data you can go here ![dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data) or use the kaggle api by typing the following in your terminal ```kaggle competitions download -c cassava-leaf-disease-classification```
+To download the data you can go here [dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data) or use the kaggle api by typing the following in your terminal ```kaggle competitions download -c cassava-leaf-disease-classification```
 
 The data can be found in the folder (`input/train.csv`)
 
